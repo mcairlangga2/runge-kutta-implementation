@@ -1,4 +1,4 @@
-# Runge-Kutta-Implementation
+# Runge-Kutta Implementation
 This repository is about implementation of runge-kutta method for solving ordinary differential equation. The programming languange used here is MATLAB. There are three kinds of runge-kutta method:
 1. 4th order Runge-Kutta 
 2. 5th order Runge-Kutta (Butcher's Method)
